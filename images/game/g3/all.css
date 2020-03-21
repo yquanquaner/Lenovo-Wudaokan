@@ -1,0 +1,21 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:cfda884a7d15d23647ffffc8921c8f3c:4d347dfcf228df80b0faf36dde975855:6ece462e3258a4cb3b05e2d3a085cec7$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(all.png);}
+
+.cp1 {width:140px; height:193px; background-position: -727px -0px}
+.cp2 {width:104px; height:245px; background-position: -0px -0px}
+.cp3 {width:129px; height:176px; background-position: -867px -0px}
+.cpname1 {width:750px; height:81px; background-position: -996px -0px}
+.cpname2 {width:750px; height:81px; background-position: -996px -81px}
+.cpname3 {width:750px; height:81px; background-position: -996px -162px}
+.title {width:623px; height:195px; background-position: -104px -0px}

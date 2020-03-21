@@ -1,0 +1,28 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:b7e4c272237361058bc4e7cb4e7e323e:4dcfbc4dff85c2d8ff70faca83584b89:6ece462e3258a4cb3b05e2d3a085cec7$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(all.png);}
+
+.bg {width:708px; height:109px; background-position: -0px -376px}
+.cp1 {width:155px; height:149px; background-position: -503px -222px}
+.cp1b {width:173px; height:166px; background-position: -330px -195px}
+.cp2 {width:131px; height:149px; background-position: -658px -222px}
+.cp2b {width:151px; height:176px; background-position: -179px -195px}
+.cp3 {width:137px; height:133px; background-position: -854px -0px}
+.cp3b {width:179px; height:181px; background-position: -0px -195px}
+.cpname1 {width:225px; height:81px; background-position: -789px -222px}
+.cpname2 {width:225px; height:81px; background-position: -789px -303px}
+.cpname3 {width:225px; height:81px; background-position: -786px -384px}
+.cri {width:78px; height:80px; background-position: -708px -371px}
+.pc {width:231px; height:133px; background-position: -623px -0px}
+.pre {width:503px; height:27px; background-position: -503px -195px}
+.title {width:623px; height:195px; background-position: -0px -0px}

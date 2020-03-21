@@ -1,0 +1,19 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:16b86b94dd2dcc6637f162bd3261f096:113a2a0a5addd1633d5fca8fdd6694fb:6ece462e3258a4cb3b05e2d3a085cec7$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(all.png);}
+
+.time_bg {width:81px; height:85px; background-position: -175px -0px}
+.time_pre {width:169px; height:41px; background-position: -0px -54px}
+.time_ybg {width:175px; height:54px; background-position: -0px -0px}
+.z1 {width:5px; height:18px; background-position: -169px -54px}
+.z2 {width:23px; height:5px; background-position: -169px -85px}

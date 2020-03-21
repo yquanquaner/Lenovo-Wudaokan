@@ -1,0 +1,39 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:2bac5b7ef90a5d5afe9bf330bdd325ae:225691bb7a3481fce661af01abfb744c:6ece462e3258a4cb3b05e2d3a085cec7$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(all.png);}
+
+.beginBtn {width:280px; height:137px; background-position: -1528px -220px}
+.close {width:93px; height:93px; background-position: -1704px -780px}
+.f1 {width:546px; height:340px; background-position: -597px -651px}
+.f2 {width:384px; height:81px; background-position: -597px -991px}
+.f3 {width:561px; height:301px; background-position: -1143px -651px}
+.fc {width:52px; height:51px; background-position: -597px -593px}
+.font {width:341px; height:19px; background-position: -1143px -952px}
+.go {width:88px; height:153px; background-position: -1704px -627px}
+.gos {width:216px; height:216px; background-position: -1312px -220px}
+.l1 {width:126px; height:115px; background-position: -1484px -952px}
+.l2 {width:196px; height:177px; background-position: -1528px -357px}
+.l3 {width:45px; height:69px; background-position: -1763px -85px}
+.l4 {width:84px; height:74px; background-position: -1724px -357px}
+.lc {width:37px; height:46px; background-position: -1763px -154px}
+.p1 {width:45px; height:85px; background-position: -1763px -0px}
+.p2 {width:36px; height:85px; background-position: -1724px -431px}
+.rulesBtn {width:138px; height:84px; background-position: -981px -991px}
+.title1 {width:299px; height:93px; background-position: -1143px -971px}
+.title2 {width:298px; height:93px; background-position: -1501px -534px}
+.tuan {width:618px; height:651px; background-position: -694px -0px}
+.wdk1 {width:224px; height:220px; background-position: -1312px -0px}
+.wdk2 {width:189px; height:206px; background-position: -1312px -436px}
+.wdk3 {width:227px; height:206px; background-position: -1536px -0px}
+.yun1 {width:694px; height:593px; background-position: -0px -0px}
+.yun2 {width:597px; height:507px; background-position: -0px -593px}

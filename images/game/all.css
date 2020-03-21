@@ -1,0 +1,33 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:d23de41d6c117bde716171b48be29348:3c4bdf7ca01b0839a40685293eab25b7:6ece462e3258a4cb3b05e2d3a085cec7$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(all.png);}
+
+.1 {width:168px; height:551px; background-position: -281px -0px}
+.2 {width:278px; height:551px; background-position: -708px -0px}
+.3 {width:281px; height:556px; background-position: -0px -0px}
+.back {width:95px; height:140px; background-position: -449px -0px}
+.bg2 {width:708px; height:109px; background-position: -0px -556px}
+.btn {width:280px; height:137px; background-position: -708px -551px}
+.chand {width:99px; height:109px; background-position: -449px -140px}
+.cpNameOl {width:123px; height:77px; background-position: -449px -348px}
+.cpNameOr {width:123px; height:77px; background-position: -535px -249px}
+.cpNameYl {width:123px; height:77px; background-position: -449px -425px}
+.cpNameYr {width:123px; height:77px; background-position: -572px -406px}
+.cri {width:78px; height:80px; background-position: -572px -326px}
+.fbg1 {width:461px; height:57px; background-position: -503px -688px}
+.fbg2 {width:461px; height:57px; background-position: -489px -745px}
+.frame {width:489px; height:86px; background-position: -0px -692px}
+.lhand {width:86px; height:99px; background-position: -449px -249px}
+.pre {width:503px; height:27px; background-position: -0px -665px}
+.rhand {width:86px; height:99px; background-position: -548px -89px}
+.ss {width:113px; height:89px; background-position: -544px -0px}
